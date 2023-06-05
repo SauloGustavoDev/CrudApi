@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menuEdit"
+        android:title="@string/editar"
+        />
+    <item
+        android:id="@+id/menuSave"
+        android:title="@string/salvar_em_cache"
+        />
+    <item
+        android:id="@+id/menuDelet"
+        android:title="@string/delete"
+        />
+
+</menu>
